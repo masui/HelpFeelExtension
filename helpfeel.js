@@ -6,47 +6,50 @@ form = null;
 menu = null;
 
 search = function() {
-  var a, ambig, done, entry, i, j, k, len, len1, li, list, ref, results, title, url, urls;
+  var a, ambig, done, entry, i, j, k, len, len1, li, list, ref, result, results, title, url, urls;
   if (menu) {
     menu.remove();
   }
   if (form.val().length === 0) {
     return;
   }
-  list = [];
-  urls = {};
-  done = false;
-  for (ambig = i = 0; i <= 2; ambig = ++i) {
-    console.log(ambig);
-    a = new Asearch(' ' + form.val() + ' ', ambig);
-    ref = data['faqs'];
-    for (j = 0, len = ref.length; j < len; j++) {
-      entry = ref[j];
-      title = entry['title'];
-      url = entry['url'];
-      if (a.match(title)) {
-        if (!urls[url]) {
-          urls[url] = true;
-          list.push(entry);
-          if (list.length > 10) {
-            done = true;
-            break;
+  if (false) {
+    list = [];
+    urls = {};
+    done = false;
+    for (ambig = i = 0; i <= 2; ambig = ++i) {
+      console.log(ambig);
+      a = new Asearch(' ' + form.val() + ' ', ambig);
+      ref = data['faqs'];
+      for (j = 0, len = ref.length; j < len; j++) {
+        entry = ref[j];
+        title = entry['title'];
+        url = entry['url'];
+        if (a.match(title)) {
+          if (!urls[url]) {
+            urls[url] = true;
+            list.push(entry);
+            if (list.length > 10) {
+              done = true;
+              break;
+            }
           }
         }
       }
-    }
-    if (done) {
-      break;
+      if (done) {
+        break;
+      }
     }
   }
+  result = searchFAQ(form.val());
   menu = $('<div>').css('background-color', '#dff');
   $('#search_box').append(menu);
   results = [];
-  for (k = 0, len1 = list.length; k < len1; k++) {
-    entry = list[k];
+  for (k = 0, len1 = result.length; k < len1; k++) {
+    entry = result[k];
     a = $('<a>');
-    a.attr('href', entry['url']);
-    a.text(entry['title']);
+    a.attr('href', entry['faq']['url']);
+    a.text(entry['faq']['title']);
     li = $('<li>');
     li.append(a);
     results.push(menu.append(li));
@@ -54,11 +57,7 @@ search = function() {
   return results;
 };
 
-
-// menu.text("ここに#{form.val()}のHelpfeel検索結果を表示")
 $(function() {
   form = $("#rn_KeywordText2_Y1_0_Text");
   return form.on('keyup', search);
 });
-
-// alert data['faqs'][0]['title']

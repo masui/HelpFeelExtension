@@ -16,7 +16,7 @@
     "content_scripts": [
 	{
 	    "matches": [ "https://www.yahoo-help.jp/*" ],
-	    "js": ["jquery-2.1.4.min.js", "asearch.js", "helpfeel.js", "yahoo-auction.js"],
+	    "js": ["jquery-2.1.4.min.js", "asearch.js", "helpfeel.js", "yahoo-auction.js", "shuffle.js", "search.js"],
 	    "run_at": "document_idle"
 	}
     ]
