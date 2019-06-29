@@ -9,8 +9,9 @@
     ],
 
     "icons": {
-	"48": "icons/realurl-48.png",
-	"96": "icons/realurl-96.png"
+	"48": "icons/helpfeel-48.png",
+	"96": "icons/helpfeel-96.png",
+	"128": "icons/helpfeel-128.png"
     },
 
     "content_scripts": [
