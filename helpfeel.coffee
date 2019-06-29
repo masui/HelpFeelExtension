@@ -24,3 +24,8 @@ $ ->
   form = $("#rn_KeywordText2_Y1_0_Text")
   form.on 'keyup', search
   form.on 'mousedown', search
+
+  style = $('<style>')
+  style.text("a:visited, a:link { color: #22f; }")
+  $('head').append(style)
+
