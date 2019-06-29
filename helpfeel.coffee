@@ -42,3 +42,4 @@ search = () ->
 $ ->
   form = $("#rn_KeywordText2_Y1_0_Text")
   form.on 'keyup', search
+  form.on 'mousedown', search
