@@ -2,6 +2,12 @@ form = null
 menu = null
 
 search = () ->
+  if menu
+    menu.remove()
+    
+  if form.val().length == 0
+    return
+  
   list = []
   urls = {}
   done = false
@@ -20,9 +26,6 @@ search = () ->
             break
     break if done
 
-  if menu
-    menu.remove()
-    
   menu = $('<div>').css('background-color','#dff')
   $('#search_box').append(menu)
   for entry in list
@@ -32,12 +35,7 @@ search = () ->
     li = $('<li>')
     li.append a
     menu.append li
-  
-  # menu.text("ここに#{form.val()}のHelpfeel検索結果を表示")
 
 $ ->
   form = $("#rn_KeywordText2_Y1_0_Text")
   form.on 'keyup', search
-
-  # alert data['faqs'][0]['title']
-
