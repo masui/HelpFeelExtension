@@ -1,5 +1,15 @@
+.PHONY: yahoo-auction.json
+
 js:
 	npm run build
+
+yahoo-auction.json:
+	/bin/rm -f yahoo-auction.json
+	wget https://helpfeel.notainc.com/helpdata/yahoo-auction.json
+yahoo-auction.js: yahoo-auction.json
+	echo "var data =" > yahoo-auction.js
+	jq . < yahoo-auction.json >> yahoo-auction.js
+
 
 #
 # Chromeエクステンション公開用のzipを作る

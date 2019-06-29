@@ -1,3 +1,6 @@
+// 以下のものを若干修正したもの (masui 2019/6/29)
+// https://github.com/nota/helpfeel/blob/master/src/client/js/lib/search.js
+
 // よみからマッチするキーワードを見つける
 const findKeywordFromYomi = (query) => {
     //const { keywords } = //QuestionStore
@@ -113,7 +116,6 @@ const searchByOr = (words) => {
     return filterDuplicatedUrl(faqList)
 }
 
-
 //console.log(findKeywordFromYomi('にち'))
-console.log(searchFAQ('受け取'))
+
 

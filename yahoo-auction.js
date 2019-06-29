@@ -1,4 +1,5 @@
-var data = {
+var data =
+{
   "keywords": [
     {
       "original": "12日",
@@ -781,6 +782,12 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
       "pageId": "5cd9291ca05fb10017f4eda4",
+      "title": "返金して取引をやめるする方法を教えてください。",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
+      "pageId": "5cd9291ca05fb10017f4eda4",
       "title": "返金して取引を中止する方法を教えてください。",
       "sourceUrl": ""
     },
@@ -793,19 +800,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
       "pageId": "5cd9291ca05fb10017f4eda4",
-      "title": "返金して取引をやめるする方法を教えてください。",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
-      "pageId": "5cd9291ca05fb10017f4eda4",
       "title": "返金して取引をやめるする手順を教えてください。",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
-      "pageId": "5cd9291ca05fb10017f4eda4",
-      "title": "返金のやり方を教えてください。",
       "sourceUrl": ""
     },
     {
@@ -818,6 +813,12 @@ var data = {
       "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
       "pageId": "5cd9291ca05fb10017f4eda4",
       "title": "返金の方法を教えてください。",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/商品代金を返金するには",
+      "pageId": "5cd9291ca05fb10017f4eda4",
+      "title": "返金のやり方を教えてください。",
       "sourceUrl": ""
     },
     {
@@ -841,25 +842,25 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "出品者から取引に必要な連絡がないのですが、どうやって連絡を取ればいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
-      "pageId": "5cd9291ba05fb10017f4ed79",
       "title": "出品者から取引に必要な連絡がないのですが、どうやって連絡したらいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "出品者に連絡しても返事が来ないのですが、どうやって連絡を取ればいいですか？",
+      "title": "出品者から取引に必要な連絡がないのですが、どうやって連絡を取ればいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "出品者に連絡しても返信が来ないのですが、どうやって連絡を取ればいいですか？",
+      "title": "出品者に連絡しても返信がないのですが、どうやって連絡を取ればいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
+      "pageId": "5cd9291ba05fb10017f4ed79",
+      "title": "出品者に連絡しても返信が来ないのですが、どうやって連絡したらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -871,7 +872,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "出品者に連絡しても返信がないのですが、どうやって連絡を取ればいいですか？",
+      "title": "出品者に連絡しても返信が来ないのですが、どうやって連絡を取ればいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
+      "pageId": "5cd9291ba05fb10017f4ed79",
+      "title": "出品者に連絡しても返事がないのですが、どうやって連絡を取ればいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
+      "pageId": "5cd9291ba05fb10017f4ed79",
+      "title": "出品者に連絡しても返事が来ないのですが、どうやって連絡を取ればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -889,25 +902,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "出品者に連絡しても返信が来ないのですが、どうやって連絡したらいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
-      "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "出品者に連絡しても返事がないのですが、どうやって連絡を取ればいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
-      "pageId": "5cd9291ba05fb10017f4ed79",
       "title": "出品者と連絡を取る方法を教えてください。",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
-      "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "取引相手から連絡がないのですが、どうやって連絡を取ればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -919,7 +914,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "落札後、住所や支払い方法の連絡をしてから数日待っても出品者から発送連絡や送料の連絡がありません。出品者にはどうやって連絡を取ればいいですか？",
+      "title": "取引相手から連絡がないのですが、どうやって連絡を取ればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -931,19 +926,25 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
+      "title": "落札後、住所や支払い方法の連絡をしてから数日待っても出品者から発送連絡や送料の連絡がありません。出品者にはどうやって連絡を取ればいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
+      "pageId": "5cd9291ba05fb10017f4ed79",
       "title": "取引ナビで連絡する方法を教えてください。",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "評価で連絡する方法を教えてください。",
+      "title": "連絡掲示板で連絡する方法を教えてください。",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/出品者と連絡が取れない",
       "pageId": "5cd9291ba05fb10017f4ed79",
-      "title": "連絡掲示板で連絡する方法を教えてください。",
+      "title": "評価で連絡する方法を教えてください。",
       "sourceUrl": ""
     },
     {
@@ -967,7 +968,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "入札をキャンセルしたいのですが、できますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
       "title": "入札をやめたいのですが、できますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "入札を中止したいのですが、できますか？",
       "sourceUrl": ""
     },
     {
@@ -985,19 +998,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "入札を中止したいのですが、できますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "入札をキャンセルしたいのですが、できますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違えて入札してしまいました。キャンセルすることはできますか？",
+      "title": "誤って入札してしまいました。取り消すことはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1009,19 +1010,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤って入札してしまいました。中止することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤って入札してしまいました。取り消すことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違えて入札してしまいました。中止することはできますか？",
+      "title": "間違えて入札してしまいました。止めることはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1033,7 +1022,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違えて入札してしまいました。止めることはできますか？",
+      "title": "誤って入札してしまいました。中止することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違えて入札してしまいました。中止することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違えて入札してしまいました。キャンセルすることはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1057,19 +1058,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "違う金額で入札してしまいました。キャンセルすることはできますか？",
+      "title": "間違った商品に入札してしまいました。キャンセルすることはできますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った商品に入札してしまいました。止めることはできますか？",
+      "title": "誤った商品に入札してしまいました。中止することはできますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った商品に入札してしまいました。取り消すことはできますか？",
+      "title": "違う商品に入札してしまいました。訂正することはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1081,7 +1082,85 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った商品に入札してしまいました。やめることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った金額で入札してしまいました。中止することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "違う商品に入札してしまいました。止めることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った金額で入札してしまいました。止めることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った金額で入札してしまいました。訂正することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "違う金額で入札してしまいました。取り消すことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "違う金額で入札してしまいました。キャンセルすることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
       "title": "違う商品に入札してしまいました。キャンセルすることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った金額で入札してしまいました。中止することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った金額で入札してしまいました。訂正することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った商品に入札してしまいました。止めることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "違う金額で入札してしまいました。中止することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った商品に入札してしまいました。取り消すことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った商品に入札してしまいました。取り消すことはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1093,13 +1172,55 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "違う金額で入札してしまいました。訂正することはできますか？",
+      "title": "間違った商品に入札してしまいました。中止することはできますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った金額で入札してしまいました。中止することはできますか？",
+      "title": "間違った金額で入札してしまいました。取り消すことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った金額で入札してしまいました。止めることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った金額で入札してしまいました。キャンセルすることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った金額で入札してしまいました。やめることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った金額で入札してしまいました。取り消すことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "間違った商品に入札してしまいました。訂正することはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った商品に入札してしまいました。キャンセルすることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った金額で入札してしまいました。キャンセルすることはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1117,145 +1238,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った金額で入札してしまいました。取り消すことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った商品に入札してしまいました。キャンセルすることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った商品に入札してしまいました。やめることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った金額で入札してしまいました。訂正することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "違う金額で入札してしまいました。取り消すことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った商品に入札してしまいました。中止することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った金額で入札してしまいました。キャンセルすることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った金額で入札してしまいました。中止することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った金額で入札してしまいました。訂正することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った金額で入札してしまいました。取り消すことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った商品に入札してしまいました。取り消すことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った商品に入札してしまいました。キャンセルすることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った商品に入札してしまいました。訂正することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った商品に入札してしまいました。やめることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った金額で入札してしまいました。止めることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "違う金額で入札してしまいました。中止することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った金額で入札してしまいました。やめることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
       "title": "違う金額で入札してしまいました。やめることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "違う商品に入札してしまいました。止めることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "違う商品に入札してしまいました。訂正することはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った金額で入札してしまいました。やめることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った金額で入札してしまいました。止めることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った金額で入札してしまいました。キャンセルすることはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "間違った商品に入札してしまいました。止めることはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1267,19 +1250,37 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "誤った商品に入札してしまいました。中止することはできますか？",
+      "title": "誤った金額で入札してしまいました。やめることはできますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "入札のキャンセル方法を教えてください。",
+      "title": "間違った商品に入札してしまいました。止めることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "誤った商品に入札してしまいました。やめることはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "違う金額で入札してしまいました。訂正することはできますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
       "title": "入札の取り消し方法を教えてください。",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "入札のキャンセル方法を教えてください。",
       "sourceUrl": ""
     },
     {
@@ -1309,18 +1310,6 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "出品者への入札キャンセル依頼はどうやっておこなえばいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "出品者への入札取り消し依頼はどうやっておこなえばいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
-      "pageId": "5cd9291ca05fb10017f4eda9",
       "title": "出品者への入札キャンセル依頼はどのようにおこなえばいいですか？",
       "sourceUrl": ""
     },
@@ -1333,13 +1322,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "出品者に入札の取り消しを「出品者への質問」からお願いする場合、質問内容には何を入力すればいいですか？",
+      "title": "出品者への入札キャンセル依頼はどうやっておこなえばいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "出品者に入札の取り消しを「出品者への質問」から依頼する場合、質問内容には何を入力すればいいですか？",
+      "title": "出品者への入札取り消し依頼はどうやっておこなえばいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "出品者に入札の取り消しを「出品者への質問」からお願いする場合、質問内容には何を入力すればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1357,7 +1352,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "出品者に入札のキャンセルを依頼した場合、出品者は必ず入札を取り消ししてくれますか？",
+      "title": "出品者に入札の取り消しを「出品者への質問」から依頼する場合、質問内容には何を入力すればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1369,13 +1364,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "出品者に入札の取り消しを依頼した場合、出品者は必ず入札をキャンセルしてくれますか？",
+      "title": "出品者に入札のキャンセルを依頼した場合、出品者は必ず入札を取り消ししてくれますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
       "title": "出品者に入札のキャンセルを依頼した場合、出品者は必ず入札をキャンセルしてくれますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
+      "pageId": "5cd9291ca05fb10017f4eda9",
+      "title": "出品者に入札の取り消しを依頼した場合、出品者は必ず入札をキャンセルしてくれますか？",
       "sourceUrl": ""
     },
     {
@@ -1393,13 +1394,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "入札をキャンセルしてもらった同じオークションに再び入札することはできますか？",
+      "title": "入札を取り消ししてもらった同じオークションに再度入札することはできますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/入札を取り消したい",
       "pageId": "5cd9291ca05fb10017f4eda9",
-      "title": "入札を取り消ししてもらった同じオークションに再度入札することはできますか？",
+      "title": "入札をキャンセルしてもらった同じオークションに再び入札することはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1435,13 +1436,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "欠陥品が届いたので返金してほしいのですが、どうしたらいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "故障した商品が届いたので返金してほしいのですが、どうしたらいいですか？",
+      "title": "間違った商品が届いたので返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1453,7 +1448,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "間違った商品が届いたので返金してほしいのですが、どうしたらいいですか？",
+      "title": "欠陥品が届いたので返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1465,25 +1460,37 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "商品が到着しましたが、欠陥があります。返金してもらうことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "商品が届きましたが、故障があります。返金してもらうことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "商品が到着しましたが、不備があります。返金してもらうことはできますか？",
+      "title": "故障した商品が届いたので返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
       "title": "商品を受け取りましたが、不備があります。返金してもらうことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "商品を受け取りましたが、欠陥があります。返金してもらうことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "商品が到着しましたが、欠陥があります。返金してもらうことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "商品が到着しましたが、故障があります。返金してもらうことはできますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "商品が届きましたが、故障があります。返金してもらうことはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1501,13 +1508,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "商品を受け取りましたが、欠陥があります。返金してもらうことはできますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "商品が到着しましたが、故障があります。返金してもらうことはできますか？",
+      "title": "商品が到着しましたが、不備があります。返金してもらうことはできますか？",
       "sourceUrl": ""
     },
     {
@@ -1525,19 +1526,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "落札した商品とは異なる商品が届きました。返金してほしいのですが、どうしたらいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "落札した商品とは異なる商品が到着しました。返金してほしいのですが、どうしたらいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "落札した商品とは違う商品が届きました。返金してほしいのですが、どうしたらいいですか？",
+      "title": "落札した商品とは違った商品が届きました。返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1549,19 +1538,31 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "落札した商品とは異なる商品が到着しました。返金してほしいのですが、どうしたらいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "落札した商品とは異なる商品が届きました。返金してほしいのですが、どうしたらいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
       "title": "落札した商品とは異なる商品を受け取りました。返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "落札した商品とは違った商品が到着しました。返金してほしいのですが、どうしたらいいですか？",
+      "title": "落札した商品とは違う商品が届きました。返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "落札した商品とは違った商品が届きました。返金してほしいのですが、どうしたらいいですか？",
+      "title": "落札した商品とは違った商品が到着しました。返金してほしいのですが、どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1579,43 +1580,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "欠陥品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "故障した商品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
       "title": "不備のある商品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "間違った商品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "故障した商品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "不備のある商品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
-      "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "不良品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
       "sourceUrl": ""
     },
     {
@@ -1627,13 +1592,49 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
-      "title": "間違った商品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
+      "title": "故障した商品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "欠陥品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
       "pageId": "5cd9291ba05fb10017f4ed9b",
       "title": "不良品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "不備のある商品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "間違った商品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "故障した商品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "間違った商品が届きました。返金してほしいのですが、受け取り連絡をしなければ出品者への入金はおこなわれませんか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/届いた商品が異なる・不良品など（受け取り連絡をしたくない・返金してほしい）",
+      "pageId": "5cd9291ba05fb10017f4ed9b",
+      "title": "不良品が届きました。返金してほしいのですが、受け取り連絡の手続きをしなければ出品者への入金はおこなわれませんか？",
       "sourceUrl": ""
     },
     {
@@ -1651,13 +1652,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されないのですが、何を確認すればいいですか？",
+      "title": "落札者が支払い手続きをしてから14日待っても商品代金が入金されないのですが、何を確認すればいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日待っても商品代金が入金されないのですが、何を確認すればいいですか？",
+      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されないのですが、何を確認すればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1669,7 +1670,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。受取方法の設定はどこで確認できますか？",
+      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。受け取り方法の設定はどこで確認できますか？",
       "sourceUrl": ""
     },
     {
@@ -1681,7 +1682,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。受け取り方法の設定はどこで確認できますか？",
+      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。受取方法の設定はどこで確認できますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。取引の状態はどこで確認できますか？",
       "sourceUrl": ""
     },
     {
@@ -1699,43 +1706,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日経っても商品代金が入金されません。受け取り方法の設定はどこで確認できますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
       "title": "落札者が支払い手続きをしてから14日待っても商品代金が入金されません。受取方法の設定はどこで確認できますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。取引の状態はどこで確認できますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。入金予定日はいつになりますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日経っても商品代金が入金されません。入金予定日はいつになりますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。入金予定日はどこで確認できますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日待っても商品代金が入金されません。入金予定日はどこで確認できますか？",
+      "title": "落札者が支払い手続きをしてから14日経っても商品代金が入金されません。受け取り方法の設定はどこで確認できますか？",
       "sourceUrl": ""
     },
     {
@@ -1747,7 +1724,37 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日待っても商品代金が入金されません。入金予定日はどこで確認できますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日経っても商品代金が入金されません。入金予定日はいつになりますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。入金予定日はいつになりますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日を経過しても商品代金が入金されません。入金予定日はどこで確認できますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
       "title": "落札者が支払い手続きをしてから14日経っても商品代金が入金されません。入金予定日はどこで確認できますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日待っても「受け取り連絡待ち」から状態が変わないのですが、何を確認すればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1765,18 +1772,6 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日待っても「受け取り連絡待ち」から状態が変わないのですが、何を確認すればいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
-      "title": "落札者が支払い手続きをしてから14日を経過しても「口座登録」「口座修正」の状態が表示されて入金されません。何を確認すればいいですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
-      "pageId": "5cd9291ba05fb10017f4ed99",
       "title": "落札者が支払い手続きをしてから14日待っても「口座登録」「口座修正」の状態が表示されて入金されません。何を確認すればいいですか？",
       "sourceUrl": ""
     },
@@ -1784,6 +1779,12 @@ var data = {
       "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
       "pageId": "5cd9291ba05fb10017f4ed99",
       "title": "落札者が支払い手続きをしてから14日経っても「口座登録」「口座修正」の状態が表示されて入金されません。何を確認すればいいですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/14日間を経過しても入金されない",
+      "pageId": "5cd9291ba05fb10017f4ed99",
+      "title": "落札者が支払い手続きをしてから14日を経過しても「口座登録」「口座修正」の状態が表示されて入金されません。何を確認すればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1825,13 +1826,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/商品が届かないと報告された",
       "pageId": "5cd9291ca05fb10017f4eda1",
-      "title": "発送済みなのに落札者から商品が未着であると報告されました。どうしたらいいですか？",
+      "title": "発送済みなのに落札者から商品が届かないと報告されました。どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/商品が届かないと報告された",
       "pageId": "5cd9291ca05fb10017f4eda1",
-      "title": "発送済みなのに落札者から商品が届かないと報告されました。どうしたらいいですか？",
+      "title": "発送済みなのに落札者から商品が未着であると報告されました。どうしたらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -1921,13 +1922,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
       "pageId": "5cd9291ca05fb10017f4ed9f",
-      "title": "受け取り連絡ボタンが表示されないのですが、どうしてですか？",
+      "title": "受け取り連絡ボタンが見つからないのですが、どうしてですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
       "pageId": "5cd9291ca05fb10017f4ed9f",
-      "title": "受け取り連絡ボタンが見つからないのですが、何故ですか？",
+      "title": "受け取り連絡ボタンが表示されないのですが、どうしてですか？",
       "sourceUrl": ""
     },
     {
@@ -1939,13 +1940,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
       "pageId": "5cd9291ca05fb10017f4ed9f",
-      "title": "受け取り連絡ボタンが見つからないのですが、どうしてですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
-      "pageId": "5cd9291ca05fb10017f4ed9f",
-      "title": "ヤフオク!ストアの商品を落札したのですが、受け取り連絡ボタンが表示されません。何故ですか？",
+      "title": "受け取り連絡ボタンが見つからないのですが、何故ですか？",
       "sourceUrl": ""
     },
     {
@@ -1969,7 +1964,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
       "pageId": "5cd9291ca05fb10017f4ed9f",
-      "title": "中古車・新車カテゴリの取引で使用する取引ナビに受け取り連絡ボタンが見つかりません。何故ですか？",
+      "title": "ヤフオク!ストアの商品を落札したのですが、受け取り連絡ボタンが表示されません。何故ですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
+      "pageId": "5cd9291ca05fb10017f4ed9f",
+      "title": "中古車・新車カテゴリの取引で使用する取引ナビに受け取り連絡ボタンが表示されません。どうしてですか？",
       "sourceUrl": ""
     },
     {
@@ -1981,7 +1982,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/［受け取り連絡］ボタンが見つからない",
       "pageId": "5cd9291ca05fb10017f4ed9f",
-      "title": "中古車・新車カテゴリの取引で使用する取引ナビに受け取り連絡ボタンが表示されません。どうしてですか？",
+      "title": "中古車・新車カテゴリの取引で使用する取引ナビに受け取り連絡ボタンが見つかりません。何故ですか？",
       "sourceUrl": ""
     },
     {
@@ -1999,19 +2000,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
       "pageId": "5cd9291ca05fb10017f4ed9e",
-      "title": "受け取り連絡をする前に出品者へ入金されました。どうしてですか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
-      "pageId": "5cd9291ca05fb10017f4ed9e",
       "title": "受け取り連絡をする前に出品者へ入金されました。何故ですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
       "pageId": "5cd9291ca05fb10017f4ed9e",
-      "title": "取引が完了しておらず受け取り連絡もしていないのに出品者へ入金されました。何故ですか？",
+      "title": "受け取り連絡をする前に出品者へ入金されました。どうしてですか？",
       "sourceUrl": ""
     },
     {
@@ -2023,7 +2018,7 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
       "pageId": "5cd9291ca05fb10017f4ed9e",
-      "title": "商品が届いていないので受け取り連絡をしていないのですが出品者へ入金されました。何故ですか？",
+      "title": "取引が完了しておらず受け取り連絡もしていないのに出品者へ入金されました。何故ですか？",
       "sourceUrl": ""
     },
     {
@@ -2041,13 +2036,19 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
       "pageId": "5cd9291ca05fb10017f4ed9e",
-      "title": "受け取り連絡をしていないのですが「出品者への入金手続きを開始しました。」と表示されています。何故取引が完了していないのに出品者へ入金されるのですか？",
+      "title": "商品が届いていないので受け取り連絡をしていないのですが出品者へ入金されました。何故ですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
       "pageId": "5cd9291ca05fb10017f4ed9e",
       "title": "受け取り連絡をしていないのですが「出品者への入金手続きを開始しました。」と表示されています。どうして取引が完了していないのに出品者へ入金されるのですか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/受け取り連絡をする前に入金された",
+      "pageId": "5cd9291ca05fb10017f4ed9e",
+      "title": "受け取り連絡をしていないのですが「出品者への入金手続きを開始しました。」と表示されています。何故取引が完了していないのに出品者へ入金されるのですか？",
       "sourceUrl": ""
     },
     {
@@ -2101,13 +2102,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/詐欺にあった可能性がある",
       "pageId": "5cd9291ba05fb10017f4ed78",
-      "title": "代金を送金したのに商品が送られてこない場合、まず最初に何をすればいいですか？",
+      "title": "商品を送ったのに代金が支払われない場合、まず最初に何をすればいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/詐欺にあった可能性がある",
       "pageId": "5cd9291ba05fb10017f4ed78",
-      "title": "商品を送ったのに代金が支払われない場合、まず最初に何をすればいいですか？",
+      "title": "代金を送金したのに商品が送られてこない場合、まず最初に何をすればいいですか？",
       "sourceUrl": ""
     },
     {
@@ -2131,13 +2132,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/詐欺にあった可能性がある",
       "pageId": "5cd9291ba05fb10017f4ed78",
-      "title": "代金を送金したのに商品が送られてこないので取引ナビ・連絡掲示板・評価を使って取引相手に連絡したのですが状況が変わりません。今後はどうしたらいいですか？",
+      "title": "商品を送ったのに代金が支払われないので取引ナビ・連絡掲示板・評価を使って取引相手に連絡したのですが状況が変わりません。今後はどうしたらいいですか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/詐欺にあった可能性がある",
       "pageId": "5cd9291ba05fb10017f4ed78",
-      "title": "商品を送ったのに代金が支払われないので取引ナビ・連絡掲示板・評価を使って取引相手に連絡したのですが状況が変わりません。今後はどうしたらいいですか？",
+      "title": "代金を送金したのに商品が送られてこないので取引ナビ・連絡掲示板・評価を使って取引相手に連絡したのですが状況が変わりません。今後はどうしたらいいですか？",
       "sourceUrl": ""
     },
     {
@@ -2149,13 +2150,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "出品者の操作などにより決済がキャンセルされた場合、どのように返金されますか？",
+      "title": "出品者の操作などにより支払いがキャンセルされた場合、どのように返金されますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "出品者の操作などにより支払いがキャンセルされた場合、どのように返金されますか？",
+      "title": "出品者の操作などにより決済がキャンセルされた場合、どのように返金されますか？",
       "sourceUrl": ""
     },
     {
@@ -2167,19 +2168,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "Yahoo!マネー/預金払い支払いのオークションが出品者の操作などでキャンセルになった場合、返金されるまでの流れはどうなりますか？",
-      "sourceUrl": ""
-    },
-    {
-      "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
-      "pageId": "5cd9291ca05fb10017f4eda5",
       "title": "Yahoo!マネー支払いのオークションが出品者の操作などでキャンセルになった場合、返金されるまでの流れはどうなりますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "クレジットカード支払いのオークションが出品者の操作などでキャンセルになった場合、落札者のクレジットカードからの引き落としはおこなわれますか？",
+      "title": "Yahoo!マネー/預金払い支払いのオークションが出品者の操作などでキャンセルになった場合、返金されるまでの流れはどうなりますか？",
       "sourceUrl": ""
     },
     {
@@ -2191,7 +2186,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "インターネットバンキング支払いのオークションが出品者の操作などでキャンセルになった場合、どのように返金されますか？",
+      "title": "クレジットカード支払いのオークションが出品者の操作などでキャンセルになった場合、落札者のクレジットカードからの引き落としはおこなわれますか？",
+      "sourceUrl": ""
+    },
+    {
+      "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
+      "pageId": "5cd9291ca05fb10017f4eda5",
+      "title": "ジャパンネット銀行支払いのオークションが出品者の操作などでキャンセルになった場合、どのように返金されますか？",
       "sourceUrl": ""
     },
     {
@@ -2203,13 +2204,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "コンビニ支払いのオークションが出品者の操作などでキャンセルになった場合、どのように返金されますか？",
+      "title": "インターネットバンキング支払いのオークションが出品者の操作などでキャンセルになった場合、どのように返金されますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "ジャパンネット銀行支払いのオークションが出品者の操作などでキャンセルになった場合、どのように返金されますか？",
+      "title": "コンビニ支払いのオークションが出品者の操作などでキャンセルになった場合、どのように返金されますか？",
       "sourceUrl": ""
     },
     {
@@ -2227,13 +2228,13 @@ var data = {
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "クーポン支払いのオークションが出品者の操作などでキャンセルになった場合、使用したクーポンはどうなりますか？",
+      "title": "クーポン払いのオークションが出品者の操作などでキャンセルになった場合、使用したクーポンはどうなりますか？",
       "sourceUrl": ""
     },
     {
       "url": "https://scrapbox.io/yahoo-auction/支払いがキャンセルされた場合",
       "pageId": "5cd9291ca05fb10017f4eda5",
-      "title": "クーポン払いのオークションが出品者の操作などでキャンセルになった場合、使用したクーポンはどうなりますか？",
+      "title": "クーポン支払いのオークションが出品者の操作などでキャンセルになった場合、使用したクーポンはどうなりますか？",
       "sourceUrl": ""
     },
     {

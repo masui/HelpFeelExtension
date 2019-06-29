@@ -8,25 +8,6 @@ search = () ->
   if form.val().length == 0
     return
 
-  if false
-    list = []
-    urls = {}
-    done = false
-    for ambig in [0..2]
-      console.log ambig
-      a = new Asearch(' ' + form.val() + ' ', ambig)
-      for entry in data['faqs']
-        title = entry['title']
-        url = entry['url']
-        if a.match title
-          unless urls[url]
-            urls[url] = true
-            list.push entry
-            if list.length > 10
-              done = true
-              break
-      break if done
-
   result = searchFAQ(form.val())
 
   menu = $('<div>').css('background-color','#dff')
