@@ -59,5 +59,6 @@ search = function() {
 
 $(function() {
   form = $("#rn_KeywordText2_Y1_0_Text");
-  return form.on('keyup', search);
+  form.on('keyup', search);
+  return form.on('mousedown', search);
 });
