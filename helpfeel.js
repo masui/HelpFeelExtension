@@ -14,7 +14,7 @@ search = function() {
     return;
   }
   result = searchFAQ(form.val());
-  menu = $('<div>').css('background-color', '#dff');
+  menu = $('<div>').css('background-color', '#dff').css('height', '160px').css('overflow', 'scroll');
   $('#search_box').append(menu);
   results = [];
   for (i = 0, len = result.length; i < len; i++) {

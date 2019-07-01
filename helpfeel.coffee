@@ -10,7 +10,10 @@ search = () ->
 
   result = searchFAQ(form.val())
 
-  menu = $('<div>').css('background-color','#dff')
+  menu = $('<div>')
+    .css('background-color','#dff')
+    .css('height','160px')
+    .css('overflow','scroll')
   $('#search_box').append(menu)
   for entry in result
     a = $('<a>')
