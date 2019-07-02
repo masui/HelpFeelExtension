@@ -2,6 +2,12 @@ form = null
 menu = null
 
 search = () ->
+  #$('html').on 'keydown', nullfunc
+  #$('html').on 'keyup', nullfunc
+  #$(".sug_list").remove();
+  #form.removeAttr('id')
+  #console.log form.val()
+  
   if menu
     menu.remove()
     
@@ -15,6 +21,7 @@ search = () ->
     .css('max-height','160px')
     .css('overflow','scroll')
     .css('float','left')
+  # $('.searchKeyword').append($('<br>'))
   $('.searchKeyword').append(menu)
   for entry in result
     a = $('<a>')
@@ -34,6 +41,27 @@ $ ->
   form = $("#keyword")
   form.on 'keyup', search
   form.on 'mousedown', search
+
+  # form.removeAttr('id')
+  
+  
+  # form.on 'changed', nullfunc
+  # form.on 'keydown', nullfunc
+  # $('.searchKeyword').on 'changed', nullfunc
+  # $('.searchKeyword').on 'keydown', nullfunc
+  # $('.searchKeyword').on 'keyup', nullfunc
+  # $('body').on 'changed', nullfunc
+  # $('body').on 'keydown', nullfunc
+  # $('body').on 'keyup', nullfunc
+
+  #$('html').on 'keydown', nullfunc
+  #$('html').on 'keyup', nullfunc
+
+  #$('input').removeClass('SearchAssist')
+  
+  #form.removeClass('sug_target')
+  #form.removeClass('SearchAssist')
+  #form.removeClass('keywordInput')
 
   setInterval rmfunc, 200
 

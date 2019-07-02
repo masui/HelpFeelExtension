@@ -2,6 +2,8 @@ form = null
 menu = null
 
 search = () ->
+  console.log form.val()
+  
   if menu
     menu.remove()
     
@@ -15,7 +17,11 @@ search = () ->
     .css('max-height','160px')
     .css('overflow','scroll')
     .css('float','left')
-  $('.searchKeyword').append(menu)
+  # $('#keyword_form').append(menu)
+  $('.oneCol.okw_parts_search').append(menu)
+  # $('.colArea.clearfix').append(menu)
+  # $('.icoKeyword').append(menu)
+  # $('.search_frmArea').append(menu)
   for entry in result
     a = $('<a>')
     a.attr 'href', entry['faq']['url']
@@ -24,18 +30,10 @@ search = () ->
     li.append a
     menu.append li
 
-nullfunc = () ->
-
-rmfunc = () ->
-  $('#keyword').removeClass('SearchAssist')
-  $(".sug_list").remove()
-
 $ ->
-  form = $("#keyword")
+  form = $("#keyword_text_field")
   form.on 'keyup', search
   form.on 'mousedown', search
-
-  setInterval rmfunc, 200
 
   style = $('<style>')
   style.text("a:visited, a:link { color: #22f; }")

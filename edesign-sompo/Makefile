@@ -1,19 +1,11 @@
-.PHONY: yahoo-auction.json
+all: cp js data
 
+cp:
+	cp ../common/* .
 js:
 	npm run build
 
-yahoo-auction:
-	/bin/rm -f yahoo-auction.json
-	wget https://helpfeel.notainc.com/helpdata/yahoo-auction.json
-	echo "var data =" > data.js
-	jq . < yahoo-auction.json >> data.js
-seven-card:
-	/bin/rm -f seven-card.json
-	wget https://helpfeel.notainc.com/helpdata/seven-card.json
-	echo "var data =" > data.js
-	jq . < seven-card.json >> data.js
-edesign-sompo:
+data:
 	/bin/rm -f edesign-sompo.json
 	wget https://helpfeel.notainc.com/helpdata/edesign-sompo.json
 	echo "var data =" > data.js

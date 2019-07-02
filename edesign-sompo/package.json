@@ -1,0 +1,23 @@
+{
+  "name": "helpfeel",
+  "version": "1.0.0",
+  "description": "Helpfeel description",
+  "main": "realurl.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "coffee -b -c helpfeel.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masui/HelpFeelExtension.git"
+  },
+  "author": "Toshiyuki Masui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masui/HelpFeelExtension/issues"
+  },
+  "homepage": "https://github.com/masui/HelpFeelExtension",
+  "dependencies": {
+    "coffee-script": "^1.12.7"
+  }
+}

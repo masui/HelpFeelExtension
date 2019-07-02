@@ -16,7 +16,7 @@
 
     "content_scripts": [
 	{
-	    "matches": [ "https://www.edsp.co.jp/faq/*" ],
+	    "matches": [ "https://secure.okbiz.okwave.jp/7card/*" ],
 	    "js": ["jquery-2.1.4.min.js", "asearch.js", "helpfeel.js", "data.js", "shuffle.js", "search.js"],
 	    "run_at": "document_idle"
 	}
