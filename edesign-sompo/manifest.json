@@ -1,9 +1,9 @@
 {
-    "name": "Helpfeel",
-    "short_name": "Helpfeel",
+    "name": "Helpfeel-EDesignSompo",
+    "short_name": "Helpfeel-EDesignSompo",
     "version": "0.0.2",
     "manifest_version": 2,
-    "description": "Helpfeel",
+    "description": "Helpfeel EDesign Sompo",
 
     "permissions": [
     ],

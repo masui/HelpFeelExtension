@@ -1,9 +1,9 @@
 {
-    "name": "Helpfeel",
-    "short_name": "Helpfeel",
+    "name": "HelpfeelYahoo",
+    "short_name": "HelpfeelYahoo",
     "version": "0.0.2",
     "manifest_version": 2,
-    "description": "Helpfeel",
+    "description": "Helpfeel Yahoo-auction",
 
     "permissions": [
     ],
