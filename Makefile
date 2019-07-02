@@ -14,8 +14,8 @@ yahoo-auction.js: yahoo-auction.json
 #
 # Chromeエクステンション公開用のzipを作る
 #
-ZIPFILES=manifest.json realurl.js jquery-2.1.4.min.js md5.js crypt.js settings.js settings.html icons/realurl-48.png icons/realurl-96.png
+ZIPFILES=manifest.json helpfeel.js jquery-2.1.4.min.js asearch.js search.js shuffle.js icons/helpfeel-48.png icons/helpfeel-96.png
 zip: js
-	/bin/rm -f realurl.zip
-	zip -r realurl.zip ${ZIPFILES}
+	/bin/rm -f helpfeel.zip
+	zip -r helpfeel.zip ${ZIPFILES}
 

@@ -12,7 +12,7 @@ search = () ->
 
   menu = $('<div>')
     .css('background-color','#dff')
-    .css('height','160px')
+    .css('max-height','160px')
     .css('overflow','scroll')
   $('#search_box').append(menu)
   for entry in result
